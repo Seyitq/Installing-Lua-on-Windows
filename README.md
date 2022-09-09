@@ -23,16 +23,16 @@ Follow these steps to install Lua 5.2.4 on Windows 10. These instructions are wr
 - Once the file is downloaded, unzip the file. Unzipping the downloaded file should create four new files: lua52.dll, lua52.exe, luac52.exe, and wlua52.exe.
 - Create a new folder inside C:\Program Files, and call this new folder LUA. Copy the four files you just unzipped into this directory.
 - Rename lua52.exe to lua.exe. If your Windows installation is set up to hide file extensions, rename lua52 to lua:
-- image
+- ![image1](https://raw.githubusercontent.com/Seyitq/Installing-Lua-on-Windows/main/lua/1.png)
 - The path to Lua needs to be set up as an environment variable in Windows.
 - Right-click on the Start/Windows menu button and select the System option.
 - From the System window, select the Advanced Settings option.
 - Having clicked the Advanced Settings option, you should now see the System Properties dialog. In this dialog, click on the Environment Variables... button.
 - In the Environment Variables window, with the Path variable selected, click the Edit... button:
-- image
+- ![image2](https://raw.githubusercontent.com/Seyitq/Installing-Lua-on-Windows/main/lua/2.png)
 - The path to Lua needs to be set up as an environment variable in Windows.
 - Right-click on the Start/Windows menu button and select the System option.
 - From the System window, select the Advanced Settings option.
 - Having clicked the Advanced Settings option, you should now see the System Properties dialog. In this dialog, click on the Environment Variables... button.
 - In the Environment Variables window, with the Path variable selected, click the Edit... button:
-- image
+- ![image3](https://raw.githubusercontent.com/Seyitq/Installing-Lua-on-Windows/main/lua/3.png)
