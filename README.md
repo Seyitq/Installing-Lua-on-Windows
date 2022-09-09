@@ -34,5 +34,5 @@ Follow these steps to install Lua 5.2.4 on Windows 10. These instructions are wr
 13. Right-click on the Start/Windows menu button and select the System option.
 14. From the System window, select the Advanced Settings option.
 15. Having clicked the Advanced Settings option, you should now see the System Properties dialog. In this dialog, click on the Environment Variables... button.
-16. In the Environment Variables window, with the Path variable selected, click the Edit... button:
+16.(final step) In the Environment Variables window, with the Path variable selected, click the Edit... button:
  ![image3](https://raw.githubusercontent.com/Seyitq/Installing-Lua-on-Windows/main/lua/3.png)
